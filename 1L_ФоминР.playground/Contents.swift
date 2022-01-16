@@ -51,6 +51,7 @@ while count <= year {
     summa = summa + (summa / 100 * procent) // прибавляем процент
     count +=  1 // увеличиваем на 1
 }
+print (summa)
 
 /* подсчет без цикла
 summa = summa + (summa / 100 * procent) // 1 год
